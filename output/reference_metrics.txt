@@ -1,0 +1,2 @@
+Reference validation loss: 1.9
+Reference validation perplexity: 6.69
