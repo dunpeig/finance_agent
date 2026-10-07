@@ -1,0 +1,23 @@
+Prompt: ROMEO:
+Temperature: 0.8
+Top-k: 10
+Generated tokens: 500
+
+ROMEO:
+I lam the beed the deast sove to some hat:
+That the bettter his have with wont somest.
+
+RUKE VINCENTIO:
+Bear the the my some his a do should of me they,
+Host shall shall from some my and a a paid you.
+
+LUCIO:
+O this whill have thee the cousice,
+The in my the from to the canself hereself
+Of that be as the thou behar, I should
+What should brief your and to citle shand,
+As will shink but his head of ot trut then they done.
+
+PRICET:
+And his for the all be betther'd shall me a wared
+they, and made w
